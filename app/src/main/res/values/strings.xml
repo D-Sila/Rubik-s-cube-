@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">CenterCube</string>
+    <string name="tab_solve">Solve</string>
+    <string name="tab_input">Input</string>
+    <string name="tab_algorithms">Algorithms</string>
+    <string name="tab_stats">Stats</string>
+    <string name="action_scramble">Scramble</string>
+    <string name="action_reset">Reset</string>
+    <string name="action_solve">Solve Cube</string>
+    <string name="camera_permission_title">Camera Center Scanner</string>
+    <string name="camera_permission_rationale">Allow camera access to scan each Rubik\'s Cube face. The scanner reads the center color box first to automatically identify which face you are holding.</string>
+    <string name="camera_grant_button">Enable Camera</string>
+    <string name="camera_capture_face">Capture Face</string>
+    <string name="use_net_painter">Use 2D Net Painter</string>
+    <string name="voice_guide_on">Voice On</string>
+    <string name="voice_guide_off">Voice Off</string>
+    <string name="narrate_current_step">Narrate current step</string>
+    <string name="voice_unavailable">Text-to-Speech engine unavailable on this device</string>
+</resources>

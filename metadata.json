@@ -1,0 +1,6 @@
+{
+  "name": "CenterCube",
+  "description": "A Rubik's Cube solver that detects each face's center color box to determine cube orientation, solve stage, and the optimal step-by-step algorithm.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
